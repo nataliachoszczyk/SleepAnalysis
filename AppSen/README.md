@@ -4,6 +4,7 @@
 Tematem naszej aplikacji jest analiza snu. Przez ostatnie kilkadziesiąt dni zbierałyśmy samodzielnie dane dotyczącze różnych aspektów naszego snu, aby zwizualizować je w postaci interaktywnych wykresów oraz informacji tekstowych. Do wygenerowania grafik używałyśmy strony [Canva](https://www.canva.com/).
 
 [Link do filmu prezentującego nasz projekt](https://youtu.be/unM7Zj-k74w)
+
 [Link do aplikacji - spróbuj sam!](https://katarzyna-rogalska-rstudioprojects.shinyapps.io/SenApplication/)
 
 
